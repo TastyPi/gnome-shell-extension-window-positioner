@@ -1,0 +1,8 @@
+{
+  "name": "Window Positioner",
+  "description": "Move windows to specific positions. Like wmctrl but with X11 and Wayland support.",
+  "uuid": "window-positioner@graham.rogers.me.uk",
+  "shell-version": [
+    "40"
+  ]
+}
